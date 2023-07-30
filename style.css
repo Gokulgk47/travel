@@ -1,0 +1,116 @@
+*{
+font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar{
+    width: 1290px;
+    height: 100px;
+    background-color: black;
+    position: sticky;
+    top: 0%;
+  
+}
+.navy{
+    position: sticky;
+    top: 0%;
+}
+
+.rot{
+    position: relative;
+    
+}
+.rot img{
+    position: absolute;
+}
+ 
+.op{
+    width:340px ;
+    margin-bottom: 10px;
+}
+.search{
+margin-bottom: 50px;
+}
+.sea{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+.rot h1{
+    font-size: 37px;
+   
+}
+.rot h3{
+   font-size: 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+.pushpa{
+    display: flex;
+    position: absolute;
+    top: 600px;
+    background-color: rgb(219, 219, 224);
+    padding: 50px;
+    width: 100%;
+}
+.aboutmee ul{
+    color: rgb(20, 122, 162);
+}
+.aboutme{
+    margin-right: 220px;
+}
+.blogg{
+    position: absolute;
+    top: 1400px;
+   
+}
+.blogg h2{
+    margin-left: 500px;
+}
+
+.card{
+    width: 100px;
+    height: 400px;
+}
+.q{
+    margin-bottom: 50px;
+}
+.now{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.form-2{
+    height: 60px;
+    background-color: rgb(14,95,163);
+    position: absolute;
+    top: 2500px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    line-height: 2.1;
+    padding: 10px;
+    margin-top: 10px;
+    }
+    .des{
+        position: absolute;
+        top: 2170px;
+        padding: 10px;
+       text-align: justify;
+        margin-left: 100px;    
+        margin-right: 100px;  
+    }
+.des h2{
+    margin-left:450px;
+}
+
+.card img:hover{
+transform: scale(1.1);
+transition: 0.2s ease;
+}
+.foot{
+    position: absolute;
+    top: 2600px;
+    width: 100%;
+   
+}
